@@ -1,5 +1,5 @@
 {
-	"homepage": "https://SerfinHub.github.io/tech_web",
+	"homepage": "https://serfinhub.github.io/tech_web/",
 	"name": "client",
 	"version": "0.1.0",
 	"private": true,
@@ -26,7 +26,7 @@
 		"web-vitals": "^2.1.2"
 	},
 	"scripts": {
-		"predeply": "npm run build",
+		"predeploy": "npm run build",
 		"deploy": "gh-pages -d build",
 		"start": "react-scripts start",
 		"build": "react-scripts build",
