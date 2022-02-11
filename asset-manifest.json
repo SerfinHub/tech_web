@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tech_web/static/css/main.03bab4b8.chunk.css",
+    "main.js": "/tech_web/static/js/main.c83478af.chunk.js",
+    "main.js.map": "/tech_web/static/js/main.c83478af.chunk.js.map",
+    "runtime~main.js": "/tech_web/static/js/runtime~main.9a53332d.js",
+    "runtime~main.js.map": "/tech_web/static/js/runtime~main.9a53332d.js.map",
+    "static/css/2.57e7574f.chunk.css": "/tech_web/static/css/2.57e7574f.chunk.css",
+    "static/js/2.4ecae3d7.chunk.js": "/tech_web/static/js/2.4ecae3d7.chunk.js",
+    "static/js/2.4ecae3d7.chunk.js.map": "/tech_web/static/js/2.4ecae3d7.chunk.js.map",
+    "static/js/3.4f122290.chunk.js": "/tech_web/static/js/3.4f122290.chunk.js",
+    "static/js/3.4f122290.chunk.js.map": "/tech_web/static/js/3.4f122290.chunk.js.map",
+    "index.html": "/tech_web/index.html",
+    "precache-manifest.b519651513d8550b4263cbd32e08396d.js": "/tech_web/precache-manifest.b519651513d8550b4263cbd32e08396d.js",
+    "service-worker.js": "/tech_web/service-worker.js",
+    "static/css/2.57e7574f.chunk.css.map": "/tech_web/static/css/2.57e7574f.chunk.css.map",
+    "static/css/main.03bab4b8.chunk.css.map": "/tech_web/static/css/main.03bab4b8.chunk.css.map"
+  }
+}
